@@ -1,0 +1,8 @@
+USAGE
+//Install all dependencies
+npm install
+//Run the server
+npm start
+
+//Создание Пользователя
+http://localhost:3000/users/create
